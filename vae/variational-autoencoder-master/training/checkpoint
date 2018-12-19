@@ -1,0 +1,3 @@
+model_checkpoint_path: "/home/wuxikun/NLP/paper/vae/variational-autoencoder-master/training/train-71"
+all_model_checkpoint_paths: "/home/wuxikun/NLP/paper/vae/variational-autoencoder-master/training/train-70"
+all_model_checkpoint_paths: "/home/wuxikun/NLP/paper/vae/variational-autoencoder-master/training/train-71"
